@@ -1,2 +1,2 @@
-SmartOrg>User types>Refineby>Name>Name>VG - Standard Basic Hiring Manager>Refresh>Row>Deactivate
-Product>Refineby>Name>Name>Default Distance Unit>Refresh>Default Distance Unit>Edit>Value>Kilometers>Save
+SmartOrg>User types>Refineby>Name>Name>VG - Standard Basic Hiring Manager>Refresh>Row>Activate
+Product>Refineby>Name>Name>Default Distance Unit>Refresh>Default Distance Unit>Edit>Value>Miles>Save
